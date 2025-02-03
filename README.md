@@ -22,4 +22,6 @@ I'm a passionate coder and design enthusiast currently studying at [1337 Coding 
 [![hdazia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaDazIA&show_icons=true&theme=radical)](https://github.com/HamzaDazIA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDazIA&layout=compact&theme=radical)](https://github.com/HamzaDazIA)
 
-
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
