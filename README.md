@@ -98,18 +98,6 @@ I'm a passionate coder and design enthusiast currently studying at [1337 Coding 
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/yourprofile">
-        <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="64" alt="LinkedIn"/>
-        <br>LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/yourhandle">
-        <img src="https://img.icons8.com/3d-fluency/94/twitter.png" width="64" alt="Twitter"/>
-        <br>Twitter
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HamzaDazIA">
         <img src="https://img.icons8.com/3d-fluency/94/github.png" width="64" alt="GitHub"/>
         <br>GitHub
