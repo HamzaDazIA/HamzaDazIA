@@ -19,7 +19,7 @@ I'm a passionate coder and design enthusiast currently studying at [1337 Coding 
       - 🔭 Exploring full-stack development
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+World!;Code+With+Purpose;Design+With+Passion;Python+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!;Code+With+Purpose;Design+With+Passion;Python+Enthusiast" alt="Typing SVG" />
     </td>
   </tr>
 </table>
