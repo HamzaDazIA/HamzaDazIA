@@ -101,7 +101,7 @@ I'm a passionate coder currently navigating the 42 Network curriculum at [1337 C
     </td>
     <td align="center">
       <a href="https://profile.intra.42.fr/users/hdazia">
-        <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-42-a-private-computer-engineering-institution-in-paris-logo-filled-tal-revivo.png" width="64" alt="42 Intra"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfAZMOWHDQ3DKE63A9jWhIqQaKcKqUIXvzg&s" width="64" alt="42 Intra"/>
         <br>42 Intra
       </a>
     </td>
