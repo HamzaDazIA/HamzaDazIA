@@ -16,10 +16,10 @@ I'm a passionate coder currently navigating the 42 Network curriculum at [1337 C
       - 💻 Mastering <strong>C++</strong> & System Programming<br>
       - 🐳 Orchestrating environments with <strong>Docker</strong><br>
       - 🌐 Building modern web apps with <strong>JS/TS</strong><br>
-      - 🎨 Refining UI/UX through <strong>HTML/CSS/Figma</strong>
+      - 🎨 Refining UI/UX through <strong>HTML5/CSS3/Figma</strong>
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!;Code+With+Purpose;C%2B%2B+Enthusiast;Docker+Orchestrator" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!;Code+With+Purpose;C%2B%2B+Enthusiast;Docker+Orchestrator" alt="Typing SVG" />
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@ I'm a passionate coder currently navigating the 42 Network curriculum at [1337 C
 
 ## 🛠 Tech Stack
 
-### 🏗️ Languages & Systems
+### 🏗️ Core & Systems
 <table>
   <tr>
     <td align="center" width="96">
@@ -40,20 +40,6 @@ I'm a passionate coder currently navigating the 42 Network curriculum at [1337 C
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
-
-### ⚙️ Tools & DevOps
-<table>
-  <tr>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
@@ -61,13 +47,27 @@ I'm a passionate coder currently navigating the 42 Network curriculum at [1337 C
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+  </tr>
+</table>
+
+### 🎨 Web & Frontend
+<table>
+  <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TS
     </td>
   </tr>
 </table>
@@ -83,11 +83,6 @@ I'm a passionate coder currently navigating the 42 Network curriculum at [1337 C
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDazIA&layout=compact&theme=radical&langs_count=6&hide=procfile" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDazIA&theme=radical&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
