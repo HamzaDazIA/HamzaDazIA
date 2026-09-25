@@ -1,6 +1,6 @@
 # Hi there, I'm Hamza Dazia 👋
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/hdazia" alt="42 Stats" width="500" align="right"></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/hdazia" alt="42 Stats" width="400" align="right"></a>
 
 ### 🚀 1337 Coding School Student | C++ Developer | DevOps & UI/UX Enthusiast
 
